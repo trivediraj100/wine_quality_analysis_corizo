@@ -2,27 +2,27 @@
 # Wine_quality_analysis_corizo
 Several features will be used to classify the quality of wine, we need to analyse all the features with the help of regression and classification and come with the best algorithm.
 
-volatile acidity :   Volatile acidity is the gaseous acids present in wine.
+Volatile acidity :   Volatile acidity is the gaseous acids present in wine.
 
-fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
+Fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
 
-residual sugar :   Amount of sugar left after fermentation.
+Residual sugar :   Amount of sugar left after fermentation.
 
-citric acid :    It is weak organic acid, found in citrus fruits naturally.
+Citric acid :    It is weak organic acid, found in citrus fruits naturally.
 
-chlorides :   Amount of salt present in wine.
+Chlorides :   Amount of salt present in wine.
 
-free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
+Free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
 
-total sulfur dioxide : total S02
+Total sulfur dioxide : total S02
 
 pH :   In wine pH is used for checking acidity
 
-density : Density
+Density : Density
 
-sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
+Sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
 
-alcohol :   Percent of alcohol present in wine.
+Alcohol :   Percent of alcohol present in wine.
 
 **Concluion**
 
