@@ -25,4 +25,5 @@ sulphates :    Added sulfites preserve freshness and protect wine from oxidation
 alcohol :   Percent of alcohol present in wine.
 
 **Concluion**
-From the above shown barplot and df_reg matrix it is clear that SVC (Support Vector Classifier) is performing best with the 83% accuracy score
+
+From the above shown barplot and df_reg matrix it is clear that SVC (Support Vector Classifier) is performing best with the 83% accuracy score.
