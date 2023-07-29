@@ -1,24 +1,25 @@
 ![Screenshot 2023-07-29 at 4 05 25 PM](https://github.com/trivediraj100/wine_quality_analysis_corizo/assets/84987907/2d6f82a7-0db1-47f0-b8b7-3ca50eaeb96f)
 # Wine_quality_analysis_corizo
 Several features will be used to classify the quality of wine, we need to analyse all the features with the help of regression and classification and come with the best algorithm.
-#volatile acidity :   Volatile acidity is the gaseous acids present in wine.
 
-#fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
+volatile acidity :   Volatile acidity is the gaseous acids present in wine.
 
-#residual sugar :   Amount of sugar left after fermentation.
+fixed acidity :   Primary fixed acids found in wine are tartaric, succinic, citric, and malic
 
-#citric acid :    It is weak organic acid, found in citrus fruits naturally.
+residual sugar :   Amount of sugar left after fermentation.
 
-#chlorides :   Amount of salt present in wine.
+citric acid :    It is weak organic acid, found in citrus fruits naturally.
 
-#free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
+chlorides :   Amount of salt present in wine.
 
-#total sulfur dioxide : total S02
+free sulfur dioxide :   So2 is used for prevention of wine by oxidation and microbial spoilage.
 
-#pH :   In wine pH is used for checking acidity
+total sulfur dioxide : total S02
 
-#density : Density
+pH :   In wine pH is used for checking acidity
 
-#sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
+density : Density
 
-#alcohol :   Percent of alcohol present in wine.
+sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
+
+alcohol :   Percent of alcohol present in wine.
